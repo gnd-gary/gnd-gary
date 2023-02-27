@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 $ git config --global user.name "Mr.Jiang"
 $ git config --global user.email year92811608@gmail.com
-$ git config --list
