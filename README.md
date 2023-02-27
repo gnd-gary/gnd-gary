@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+$ git config --global user.name "江昶毅"
+$ git config --global user.email year92811608@gmail.com
+$ git config --list
